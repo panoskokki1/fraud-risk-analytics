@@ -1,0 +1,6 @@
+Threshold,False Positives,False Negatives,Estimated Cost
+0.5,7,19,9570
+0.4,10,18,9100
+0.39,10,18,9100
+0.3,13,17,8630
+0.2,18,14,7180
